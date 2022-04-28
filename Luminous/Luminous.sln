@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Luminous", "Luminous\Luminous.csproj", "{6DF4E803-4A65-424F-A35D-B897923E988D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SandBox", "..\SandBox\SandBox\SandBox.csproj", "{E8C24595-9823-4805-A164-98A4D76B022A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DF4E803-4A65-424F-A35D-B897923E988D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF4E803-4A65-424F-A35D-B897923E988D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DF4E803-4A65-424F-A35D-B897923E988D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DF4E803-4A65-424F-A35D-B897923E988D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8C24595-9823-4805-A164-98A4D76B022A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8C24595-9823-4805-A164-98A4D76B022A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8C24595-9823-4805-A164-98A4D76B022A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8C24595-9823-4805-A164-98A4D76B022A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78A18F5F-9361-471E-B529-2D91723D6023}
+	EndGlobalSection
+EndGlobal

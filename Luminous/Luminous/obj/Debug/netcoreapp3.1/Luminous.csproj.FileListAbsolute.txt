@@ -1,0 +1,10 @@
+D:\Dev\Projects\Luminous\Luminous\bin\Debug\netcoreapp3.1\Luminous.deps.json
+D:\Dev\Projects\Luminous\Luminous\bin\Debug\netcoreapp3.1\Luminous.dll
+D:\Dev\Projects\Luminous\Luminous\bin\Debug\netcoreapp3.1\Luminous.pdb
+D:\Dev\Projects\Luminous\Luminous\obj\Debug\netcoreapp3.1\Luminous.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Projects\Luminous\Luminous\obj\Debug\netcoreapp3.1\Luminous.AssemblyInfoInputs.cache
+D:\Dev\Projects\Luminous\Luminous\obj\Debug\netcoreapp3.1\Luminous.AssemblyInfo.cs
+D:\Dev\Projects\Luminous\Luminous\obj\Debug\netcoreapp3.1\Luminous.csproj.CoreCompileInputs.cache
+D:\Dev\Projects\Luminous\Luminous\obj\Debug\netcoreapp3.1\Luminous.dll
+D:\Dev\Projects\Luminous\Luminous\obj\Debug\netcoreapp3.1\Luminous.pdb
+D:\Dev\Projects\Luminous\Luminous\obj\Debug\netcoreapp3.1\Luminous.csproj.AssemblyReference.cache

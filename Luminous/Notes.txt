@@ -1,0 +1,26 @@
+Entity Component System
+
+Features:
+
+Hierachies
+Component Sharing
+Multiple Component Instances
+Runtime Tags
+State Machines
+
+
+Components:
+
+IComponents
+Int : Id type of component
+Type: type of component
+
+TransformComponent	SpriteRendererComponent	
+ Position	 	 Material
+ Rotation	 	 LayerDepth			 
+ Scale		 	 Flip
+ Origin			 
+			 
+
+
+ 

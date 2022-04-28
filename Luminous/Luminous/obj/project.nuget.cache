@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "dMVFNA/C4nb+2nZNHVd5DaYnexPg6eEQbUcTlagkmtaOa9hQGRBtLZV4+yXq6Pq94CFm4rh739MH7WhKh+mgcQ==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\Projects\\Luminous\\Luminous\\Luminous.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\puke_\\.nuget\\packages\\cyotek.drawing.bitmapfont\\2.0.1\\cyotek.drawing.bitmapfont.2.0.1.nupkg.sha512",
+    "C:\\Users\\puke_\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\puke_\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\puke_\\.nuget\\packages\\opentk.core\\4.7.1\\opentk.core.4.7.1.nupkg.sha512",
+    "C:\\Users\\puke_\\.nuget\\packages\\opentk.mathematics\\4.7.1\\opentk.mathematics.4.7.1.nupkg.sha512",
+    "C:\\Users\\puke_\\.nuget\\packages\\opentk.openal\\4.7.1\\opentk.openal.4.7.1.nupkg.sha512",
+    "C:\\Users\\puke_\\.nuget\\packages\\spritefontplus\\0.9.2\\spritefontplus.0.9.2.nupkg.sha512",
+    "C:\\Users\\puke_\\.nuget\\packages\\stbimagesharp\\2.22.4\\stbimagesharp.2.22.4.nupkg.sha512",
+    "C:\\Users\\puke_\\.nuget\\packages\\stbtruetypesharp\\1.24.7\\stbtruetypesharp.1.24.7.nupkg.sha512",
+    "C:\\Users\\puke_\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
