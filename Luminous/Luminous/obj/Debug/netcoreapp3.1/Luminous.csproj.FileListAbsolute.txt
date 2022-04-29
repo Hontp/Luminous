@@ -8,3 +8,13 @@ D:\Dev\Projects\Luminous\Luminous\obj\Debug\netcoreapp3.1\Luminous.csproj.CoreCo
 D:\Dev\Projects\Luminous\Luminous\obj\Debug\netcoreapp3.1\Luminous.dll
 D:\Dev\Projects\Luminous\Luminous\obj\Debug\netcoreapp3.1\Luminous.pdb
 D:\Dev\Projects\Luminous\Luminous\obj\Debug\netcoreapp3.1\Luminous.csproj.AssemblyReference.cache
+D:\Dev\GitHub\Luminous\Luminous\Luminous\bin\Debug\netcoreapp3.1\Luminous.deps.json
+D:\Dev\GitHub\Luminous\Luminous\Luminous\bin\Debug\netcoreapp3.1\Luminous.dll
+D:\Dev\GitHub\Luminous\Luminous\Luminous\bin\Debug\netcoreapp3.1\Luminous.pdb
+D:\Dev\GitHub\Luminous\Luminous\Luminous\obj\Debug\netcoreapp3.1\Luminous.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\GitHub\Luminous\Luminous\Luminous\obj\Debug\netcoreapp3.1\Luminous.AssemblyInfoInputs.cache
+D:\Dev\GitHub\Luminous\Luminous\Luminous\obj\Debug\netcoreapp3.1\Luminous.AssemblyInfo.cs
+D:\Dev\GitHub\Luminous\Luminous\Luminous\obj\Debug\netcoreapp3.1\Luminous.csproj.CoreCompileInputs.cache
+D:\Dev\GitHub\Luminous\Luminous\Luminous\obj\Debug\netcoreapp3.1\Luminous.dll
+D:\Dev\GitHub\Luminous\Luminous\Luminous\obj\Debug\netcoreapp3.1\Luminous.pdb
+D:\Dev\GitHub\Luminous\Luminous\Luminous\obj\Debug\netcoreapp3.1\Luminous.csproj.AssemblyReference.cache

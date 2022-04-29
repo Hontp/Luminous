@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev\\Projects\\Luminous\\Luminous\\Luminous.csproj": {}
+    "D:\\Dev\\GitHub\\Luminous\\Luminous\\Luminous\\Luminous.csproj": {}
   },
   "projects": {
-    "D:\\Dev\\Projects\\Luminous\\Luminous\\Luminous.csproj": {
+    "D:\\Dev\\GitHub\\Luminous\\Luminous\\Luminous\\Luminous.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\Projects\\Luminous\\Luminous\\Luminous.csproj",
+        "projectUniqueName": "D:\\Dev\\GitHub\\Luminous\\Luminous\\Luminous\\Luminous.csproj",
         "projectName": "Luminous",
-        "projectPath": "D:\\Dev\\Projects\\Luminous\\Luminous\\Luminous.csproj",
+        "projectPath": "D:\\Dev\\GitHub\\Luminous\\Luminous\\Luminous\\Luminous.csproj",
         "packagesPath": "C:\\Users\\puke_\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev\\Projects\\Luminous\\Luminous\\obj\\",
+        "outputPath": "D:\\Dev\\GitHub\\Luminous\\Luminous\\Luminous\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\puke_\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -41,21 +41,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
-            "MonoGame.Content.Builder.Task": {
+            "Silk.NET": {
               "target": "Package",
-              "version": "[3.8.0.1641, )"
-            },
-            "MonoGame.Framework.DesktopGL": {
-              "target": "Package",
-              "version": "[3.8.0.1641, )"
-            },
-            "OpenTK.OpenAL": {
-              "target": "Package",
-              "version": "[4.7.1, )"
-            },
-            "SpriteFontPlus": {
-              "target": "Package",
-              "version": "[0.9.2, )"
+              "version": "[2.15.0, )"
             }
           },
           "imports": [

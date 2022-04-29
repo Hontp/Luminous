@@ -1,6 +1,5 @@
 ﻿using Luminous.API.MonoGame;
 using Luminous.Core.Components;
-using Microsoft.Xna.Framework;
 
 namespace Luminous.Core.Graphics
 {

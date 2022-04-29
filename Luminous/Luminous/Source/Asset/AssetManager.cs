@@ -1,8 +1,5 @@
-﻿using Luminous.Core.IO.ContentProcessor;
-using Luminous.Core.IO.ContentProcessor.Data;
+﻿using Luminous.Core.IO.ContentProcessor.Data;
 using Luminous.Interface;
-using Microsoft.Xna.Framework;
-using Microsoft.Xna.Framework.Graphics;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;

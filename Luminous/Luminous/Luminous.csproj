@@ -11,9 +11,41 @@
     <EnableNETAnalyzers>True</EnableNETAnalyzers>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Remove="Source\Core\Graphics\RenderCommand\**" />
+    <Compile Remove="Source\Core\Graphics\Renderer\**" />
+    <Compile Remove="Source\Core\IO\ContentProcessor\**" />
+    <Compile Remove="Source\Core\Shader\**" />
     <Compile Remove="Vendor\**" />
+    <EmbeddedResource Remove="Source\Core\Graphics\RenderCommand\**" />
+    <EmbeddedResource Remove="Source\Core\Graphics\Renderer\**" />
+    <EmbeddedResource Remove="Source\Core\IO\ContentProcessor\**" />
+    <EmbeddedResource Remove="Source\Core\Shader\**" />
     <EmbeddedResource Remove="Vendor\**" />
+    <None Remove="Source\Core\Graphics\RenderCommand\**" />
+    <None Remove="Source\Core\Graphics\Renderer\**" />
+    <None Remove="Source\Core\IO\ContentProcessor\**" />
+    <None Remove="Source\Core\Shader\**" />
     <None Remove="Vendor\**" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Source\Asset\AssetManager.cs" />
+    <Compile Remove="Source\Core\ECS\Components\AudioComponent.cs" />
+    <Compile Remove="Source\Core\ECS\Components\BoxComponent.cs" />
+    <Compile Remove="Source\Core\ECS\Components\LineComponent.cs" />
+    <Compile Remove="Source\Core\ECS\Components\SpriteComponent.cs" />
+    <Compile Remove="Source\Core\ECS\Components\TransformComponent.cs" />
+    <Compile Remove="Source\Core\ECS\Interface\ISpriteRendererComponent.cs" />
+    <Compile Remove="Source\Core\ECS\Interface\ITransformComponent.cs" />
+    <Compile Remove="Source\Core\Graphics\MaterialComponent.cs" />
+    <Compile Remove="Source\Interface\IAsset.cs" />
+    <Compile Remove="Source\Interface\IAudioClip.cs" />
+    <Compile Remove="Source\Interface\IAudioListener.cs" />
+    <Compile Remove="Source\Interface\IAudioStream.cs" />
+    <Compile Remove="Source\Interface\IContentProcessor.cs" />
+    <Compile Remove="Source\Interface\IGraphics.cs" />
+    <Compile Remove="Source\Interface\IMainLoop.cs" />
+    <Compile Remove="Source\Interface\IRenderCommand.cs" />
+    <Compile Remove="Source\Interface\IRenderer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Icon.ico" />
@@ -27,13 +59,14 @@
     <TrimmerRootAssembly Include="Microsoft.Xna.Framework.Content.ContentTypeReader" Visible="false" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="MonoGame.Framework.DesktopGL" Version="3.8.0.1641" />
-    <PackageReference Include="MonoGame.Content.Builder.Task" Version="3.8.0.1641" />
-    <PackageReference Include="OpenTK.OpenAL" Version="4.7.1" />
-    <PackageReference Include="SpriteFontPlus" Version="0.9.2" />
+    <Folder Include="Source\Asset\" />
+    <Folder Include="Source\Core\ECS\Components\" />
+    <Folder Include="Source\Core\Graphics\" />
+    <Folder Include="Source\Core\Input\" />
+    <Folder Include="Source\Core\IO\" />
+    <Folder Include="Source\Core\Memory\" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Source\Core\Input\" />
-    <Folder Include="Source\Core\Memory\" />
+    <PackageReference Include="Silk.NET" Version="2.15.0" />
   </ItemGroup>
 </Project>

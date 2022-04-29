@@ -20,7 +20,17 @@
       "ProjectGuid": "e8c24595-9823-4805-a164-98a4d76b022a",
       "DisplayName": "SandBox",
       "ColorIndex": 2
+    },
+    "d29f2ccd-3412-4dd7-a160-9199b0d7a623": {
+      "ProjectGuid": "d29f2ccd-3412-4dd7-a160-9199b0d7a623",
+      "DisplayName": "LuminousSandbox",
+      "ColorIndex": 3
+    },
+    "389c39e5-ddd6-4e5e-b37b-a08f94b7772a": {
+      "ProjectGuid": "389c39e5-ddd6-4e5e-b37b-a08f94b7772a",
+      "DisplayName": "DevTestBox",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 5
 }

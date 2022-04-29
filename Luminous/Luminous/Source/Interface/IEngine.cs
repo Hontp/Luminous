@@ -1,10 +1,8 @@
-﻿using Luminous.API.MonoGame;
-
-namespace Luminous.Interface
+﻿namespace Luminous.Interface
 {
     public interface IEngine
     {
-        void Intialize(GameLoop entryPoint);
+        void Intialize();
         void Run();
         void Shutdown();
     }

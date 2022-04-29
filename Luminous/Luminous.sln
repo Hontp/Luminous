@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Luminous", "Luminous\Luminous.csproj", "{6DF4E803-4A65-424F-A35D-B897923E988D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SandBox", "..\SandBox\SandBox\SandBox.csproj", "{E8C24595-9823-4805-A164-98A4D76B022A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevTestBox", "DevTestBox\DevTestBox.csproj", "{389C39E5-DDD6-4E5E-B37B-A08F94B7772A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{6DF4E803-4A65-424F-A35D-B897923E988D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DF4E803-4A65-424F-A35D-B897923E988D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DF4E803-4A65-424F-A35D-B897923E988D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E8C24595-9823-4805-A164-98A4D76B022A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E8C24595-9823-4805-A164-98A4D76B022A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E8C24595-9823-4805-A164-98A4D76B022A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E8C24595-9823-4805-A164-98A4D76B022A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{389C39E5-DDD6-4E5E-B37B-A08F94B7772A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{389C39E5-DDD6-4E5E-B37B-A08F94B7772A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{389C39E5-DDD6-4E5E-B37B-A08F94B7772A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{389C39E5-DDD6-4E5E-B37B-A08F94B7772A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
